@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1417433727 source:/home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/main.cpp
+	<iostream>
+	"commercial.h"
+	"technicien.h"
+
+1417432302 source:/home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/Employe.cpp
+	<iostream>
+	<string>
+	"Employe.h"
+
+1418035719 /home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/Employe.h
+
+1417434279 source:/home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/commercial.cpp
+	<iostream>
+	"commercial.h"
+
+1417261171 /home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/commercial.h
+	"Employe.h"
+
+1417262041 /home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/technicien.h
+	"Employe.h"
+
+1417431658 source:/home/shannon/CodeBlocks_projetcs/C++/TDs/Serie3/Exercice_3/technicien.cpp
+	<iostream>
+	"technicien.h"
+
